@@ -14,7 +14,7 @@ Argentina, a system with no prior chlorophyll-a monitoring.
 ## Availability 
 
 ⚠️ **These scripts will be made publicly available upon publication of the paper.** ⚠️
-Until then the repository is provided for editorial and review purposes only.
+Until then the repository is provided for editorial and review purposes only. 
 
 ## Contents
 
@@ -30,11 +30,11 @@ Until then the repository is provided for editorial and review purposes only.
 | `08_fig_temporal_severity.R` | Figure: temporal severity and change point |
 | `09_fig_bloom_categories.R` | Figure: monthly bloom categories |
 | `10_fig_raster_grids.R` | Figures: annual and monthly raster grids |
-| `12_mask_edges_and_islet.R` | Post-hoc exclusion of edge cells and the seasonally exposed islet |
-| `13_GEE_daily_FAI_event.js` | Daily FAI for a single bloom event |
-| `14_fig_daily_FAI_event.R` | Figure: daily FAI event sequence |
+| `11_mask_edges_and_islet.R` | Post-hoc exclusion of edge cells and the seasonally exposed islet |
+| `12_GEE_daily_FAI_event.js` | Daily FAI for a single bloom event |
+| `13_fig_daily_FAI_event.R` | Figure: daily FAI event sequence |
 
-Validation and calibration scripts are provided separately under `validation/`.
+Validation and calibration scripts will be provided separately under `validation/`.
 
 ## Requirements
 
