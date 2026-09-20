@@ -2,8 +2,8 @@
 
 Google Earth Engine (JavaScript) and R code supporting the paper:
 
-> [Authors], [Year]. An open geocomputational workflow for enabling long-term and
-> large-scale assessment of harmful algal bloom severity. *Hydrobiologia*. [DOI]
+> [2026] Tiberi, A. E; Drozd, A. A; Zerda, H. R; de Tezanos Pinto, P. An open geocomputational workflow 
+> for enabling long-term and large-scale assessment of harmful algal bloom severity. *Hydrobiologia*.
 
 The workflow reconstructs long-term spatial and temporal patterns of harmful algal
 blooms from open satellite archives, using the Floating Algae Index (FAI) on MODIS
