@@ -2,8 +2,8 @@
 
 Google Earth Engine (JavaScript) and R code supporting the paper:
 
-> [2026] Tiberi, A. E; Drozd, A. A; Zerda, H. R; de Tezanos Pinto, P. An open geocomputational workflow 
-> for enabling long-term and large-scale assessment of harmful algal bloom severity. *Hydrobiologia*.
+> Tiberi, A.E., Drozd, A.A., Zerda, H.R., de Tezanos, P.P. An open geocomputational workflow for enabling long-term and large-scale
+> assessment of harmful algal bloom severity. Hydrobiologia (2026). https://doi.org/10.1007/s10750-026-06415-5
 
 The workflow reconstructs long-term spatial and temporal patterns of harmful algal
 blooms from open satellite archives, using the Floating Algae Index (FAI) on MODIS
@@ -13,8 +13,8 @@ Argentina, a system with no prior chlorophyll-a monitoring.
 
 ## Availability 
 
-⚠️ **These scripts will be made publicly available upon publication of the paper.** ⚠️
-Until then the repository is provided for editorial and review purposes only. 
+⚠️ **Scripts are currently curated and will be available soon** ⚠️
+Zenodo repository will be also available soon. 
 
 ## Contents
 
@@ -51,6 +51,13 @@ If you use this code, please cite the paper above.
 
 ## License
 
-This work is licensed under CC BY-NC-SA 4.0
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+## License
+
+This code is licensed under the
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+You are free to use, modify and redistribute it, including for commercial
+purposes, provided that any derivative work is distributed under the same
+license and its source code is made available. See the `LICENSE` file for
+the full terms. 
 
