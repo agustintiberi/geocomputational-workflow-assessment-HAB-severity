@@ -45,6 +45,10 @@ Data sources are the MOD09GQ and MOD09GA Collection 6.1 products, Sentinel-2
 Level-2A and Landsat-8 Level-2, all accessed through Google Earth Engine. No
 proprietary data are required.
 
+## Reproduciblity
+
+- The script `08_fig_temporal_severity.R` reproduces the bloom severity statistics reported in the paper. Trend statistics for the individual components and the post-change-point median of BS differ from the published values in the third decimal, because the published values were computed with the single excluded month (April 2017) retained as an interpolated value; none of the conclusions is affected.
+
 ## Citation
 
 If you use this code, please cite the paper above.
